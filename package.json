@@ -1,5 +1,9 @@
 {
   "private": true,
+  "scripts": {
+    "build": "spago build",
+    "start": "spago run"
+  },
   "devDependencies": {
     "esbuild": "^0.17.15",
     "purescript": "^0.15.8",
