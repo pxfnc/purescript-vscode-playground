@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "dhall.dhall-lang",
+        "nwolverson.ide-purescript"
+    ]
+}
