@@ -3,6 +3,7 @@
   "scripts": {
     "build": "spago build",
     "start": "spago run",
+    "repl": "spago repl",
     "format": "purs-tidy format-in-place ./src"
   },
   "devDependencies": {

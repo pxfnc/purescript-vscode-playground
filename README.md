@@ -13,6 +13,7 @@ code . # open current directory on Visual Studio Code
 
 ```shell
 npm start # build and run PureScript code
+npm start # start PureScript REPL
 npm run format # format all *.purs in ./src
 ```
 
@@ -20,4 +21,4 @@ npm run format # format all *.purs in ./src
 
 - [PureScript](https://www.purescript.org/) PureScript official page
 - [PureScript by Example](https://book.purescript.org/) community fork _PureScript by Example_ by Phil Freeman.
-- [Pursuit](https://pursuit.purescript.org/) hosts API documentation for PureScript packages. 
+- [Pursuit](https://pursuit.purescript.org/) hosts API documentation for PureScript packages.

@@ -13,6 +13,7 @@ code . # VSCodeでプロジェクトを開く
 
 ```shell
 npm start # PureScriptのコードをビルドおよび実行
+npm run repl # PureScriptのREPLを起動
 npm run format # ./src内の*.pursをフォーマット
 ```
 
